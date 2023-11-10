@@ -4,7 +4,8 @@
   alt="snake" />
 </div>
 
-<h1 align="center">Agile Ninja Tech - We are here to change the Technologies, to change the world!</h1>
+<h1 align="center">Agile Ninja Tech</h1>
+<h2 align="center">We are here to change the Technologies, to change the world!</h2>
 
 <p align="center">
   <img src="https://github.com/agileninjatech/assets/blob/main/assets/images/logos/agile-ninja-tech_v2_300x300.png?raw=true" alt="agile.ninja.tech-logo" width="120px" height="120px"/>
