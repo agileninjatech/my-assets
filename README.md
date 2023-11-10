@@ -1,4 +1,4 @@
-<h1 align="center">Agile Ninja Tech - We are her to change the Technologies, to change the world!</h1>
+<h1 align="center">Agile Ninja Tech - We are here to change the Technologies, to change the world!</h1>
 
 <p align="center">
   <img src="assets/images/logos/agile-ninja-tech_v2_300x300.png" alt="agile.ninja.tech-logo" width="120px" height="120px"/>
