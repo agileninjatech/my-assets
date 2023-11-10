@@ -1,7 +1,13 @@
+<!--- snake -->
+<div align="center">
+  <img  src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/1ab625ab2312025ee200b7f968b1fba735857671/resources/img/grid-snake.svg"
+  alt="snake" />
+</div>
+
 <h1 align="center">Agile Ninja Tech - We are here to change the Technologies, to change the world!</h1>
 
 <p align="center">
-  <img src="assets/images/logos/agile-ninja-tech_v2_300x300.png" alt="agile.ninja.tech-logo" width="120px" height="120px"/>
+  <img src="https://github.com/agileninjatech/assets/blob/main/assets/images/logos/agile-ninja-tech_v2_300x300.png?raw=true" alt="agile.ninja.tech-logo" width="120px" height="120px"/>
   <br>
   <em>Agile Ninja Tech is a Modern Development Enterprise for building mobile and desktop web applications
     <br> using TypeScript | .NET | sql server | Azure and Love </em>
@@ -21,7 +27,7 @@
 </p> -->
 <p align="center">
   <a alt="logo-azure">
-    <img alt="Static Badge" src="https://avatars.githubusercontent.com/u/1844662?s=48&v=4">
+    <img alt="Static Badge" src="https://github.com/agileninjatech/assets/blob/main/assets/images/logos/azure_60x60.png?raw=true">
   </a>
   </a>
 </p>
@@ -59,12 +65,6 @@
 </div>
 
 
-<!--- snake -->
-<!-- <div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" />
-</div> -->
-
 
 <!--h2 without bottom border-->
 <div  align=center>
@@ -83,7 +83,7 @@
 
 <div align=center class="rrhh">
   <a href="" title="Go to Source">
-      <img align="center" width=84% src="./assets/images/rrhh/dev-team.jpg" alt="developerteam" />
+      <img align="center" width=84% src="https://github.com/agileninjatech/assets/blob/main/assets/images/rrhh/dev-team.jpg?raw=true" alt="developerteam" />
     </a>
 </div>
 
@@ -102,7 +102,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,bootstrap,c,cpp,css,discord,docker,dynamodb,express,figma,firebase,github,html,idea,java,js,kotlin,linux,md,materialui,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,aws,bootstrap,c,cpp,css,discord,docker,dynamodb,express,figma,firebase,github,html,idea,java,js,kotlin,linux,md,materialui,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,azure,vscode&perline=11" />
   </a>
 </p>
 
